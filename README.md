@@ -58,9 +58,9 @@ Los resultados estádisticos del modelo final obtenido son los que se presentan 
 * AUC (ROC): 0.889
 
 ### Curva ROC
-![Curva Roc](/images/curvaRoc.jpg)
+![Curva Roc](./images/curvaRoc.jpg)
 
 ### Diagrama Red Neuronal 
-![Diagrama Red Neuronal](/images/diagramaRed.jpg)
+![Diagrama Red Neuronal](./images/diagramaRed.jpg)
 
 
